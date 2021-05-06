@@ -4,6 +4,18 @@
 
 A [Flarum](http://flarum.org) extension. Add a simple visitor counter to sidenav
 
+
+### Usage
+
+Visitor counter works through a free api, u need to create yours for free at:
+https://countapi.xyz/
+
+Or simply copy and paste this link (make sure to change your-namespace with your unique namespace
+```
+https://api.countapi.xyz/hit/YOUR-NAMESPACE/visits
+```
+
+
 ### Installation
 
 Install with composer:
