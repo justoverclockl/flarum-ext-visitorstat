@@ -15,7 +15,7 @@ app.initializers.add('justoverclock/flarum-ext-visitorstat', () => {
           m('div', { className: 'targhetta' }, m('h1', { className: 'numbervis', id: 'countvis' }, '0')),
         ])
       ),
-      -100
+      1000
     );
   });
 });
