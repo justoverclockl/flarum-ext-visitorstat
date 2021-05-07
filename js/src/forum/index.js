@@ -4,6 +4,7 @@ import IndexPage from 'flarum/components/IndexPage';
 
 app.initializers.add('justoverclock/flarum-ext-visitorstat', () => {
   extend(IndexPage.prototype, 'navItems', (navItems) => {
+    if (app.current.matches(IndexPage))
     navItems.add(
       'VisitCounter',
       m(
