@@ -1,6 +1,7 @@
 import { extend } from 'flarum/common/extend';
 import app from 'flarum/app';
 import IndexPage from 'flarum/components/IndexPage';
+import Separator from 'flarum/components/Separator';
 
 app.initializers.add('justoverclock/flarum-ext-visitorstat', () => {
   extend(IndexPage.prototype, 'navItems', (navItems) => {
