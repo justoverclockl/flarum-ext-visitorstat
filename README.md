@@ -1,3 +1,4 @@
+![Immagine 2021-05-10 180016](https://user-images.githubusercontent.com/79002016/117688979-9a41c600-b1b9-11eb-9ea1-5e0d9de7ff7f.png)
 # Visitorstat
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/justoverclock/flarum-ext-visitorstat.svg)](https://packagist.org/packages/justoverclock/flarum-ext-visitorstat) [![Total Downloads](https://img.shields.io/packagist/dt/justoverclock/flarum-ext-visitorstat.svg)](https://packagist.org/packages/justoverclock/flarum-ext-visitorstat)
